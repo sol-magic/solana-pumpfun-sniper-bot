@@ -8,9 +8,11 @@ Discord: web3_wiza
 You can always feel free to find me here for my help on other projects.
 
 ## Examples
-Pool Creation Tx: https://solscan.io/tx/2e3EiFf2hjbYPWLn3oWgC2nrftDH192v4sUYhdZ6SczD4N3HHSB8z7SbtD98kLNLGNkSWkap1ku4Xqd2CVWnUMGd
+Pool Creation Tx: <br>
+https://solscan.io/tx/2e3EiFf2hjbYPWLn3oWgC2nrftDH192v4sUYhdZ6SczD4N3HHSB8z7SbtD98kLNLGNkSWkap1ku4Xqd2CVWnUMGd
 
-Buy Tx: https://solscan.io/tx/15o2YvwmhBoVaZcGh9eqSkBbwWcVJcNzU4UTvjipJ4hzYE7HS4CU2zxPqNJSnMyunMLrZWEDSb5HEQU9B2C29ub
+Buy Tx: <br> 
+https://solscan.io/tx/15o2YvwmhBoVaZcGh9eqSkBbwWcVJcNzU4UTvjipJ4hzYE7HS4CU2zxPqNJSnMyunMLrZWEDSb5HEQU9B2C29ub
 
 ## Features
 
